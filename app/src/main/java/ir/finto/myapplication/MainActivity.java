@@ -23,4 +23,12 @@ public class MainActivity extends AppCompatActivity {
         intent.putExtra(EXTRA_MESSAGE, message);
         startActivity(intent);
     }
+
+    //test git
+
+    private void a()
+    {
+
+    }
+
 }
